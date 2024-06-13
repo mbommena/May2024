@@ -1,5 +1,5 @@
 package pacmay25;
-//assignment1 - (((((((10+2)+2)-2)*2)/2))//
+//assignment 1 - (((((((10+2)+2)-2)*2)/2))//
 
 public class mathematics {
 	public int sum(int a, int b) {

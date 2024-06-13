@@ -1,5 +1,5 @@
 package pacmay25;
-//assignment1 - (((((((10*2)-2)+2)-2)/2))//
+//assignment 1 - (((((((10*2)-2)+2)-2)/2))//
 
 public class assignment2 {
 	public int mul(int a, int b) {
